@@ -29,6 +29,7 @@ def main():
         screen.fill("black")
 
         # RENDER YOUR GAME HERE
+        player.update(dt)
         player.draw(screen)
 
         # flip() the display to put your work on screen
