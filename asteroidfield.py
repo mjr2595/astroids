@@ -1,5 +1,7 @@
 import random
+
 import pygame
+
 from asteroid import Asteroid
 from constants import (
     ASTEROID_KINDS,
