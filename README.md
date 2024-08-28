@@ -2,4 +2,4 @@
 
 pygame astroids
 
-<a href="https://imgur.com/3yoBX6O"><img src="https://i.imgur.com/3yoBX6O.mp4" title="gameplay" /></a>
+<a href="https://imgur.com/rqCvjg2"><img src="https://i.imgur.com/rqCvjg2.gif" title="gameplay" /></a>
